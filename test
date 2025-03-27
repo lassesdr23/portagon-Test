@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chatbot Test</title>
+</head>
+<body>
+  <h1>Hallo Welt 👋</h1>
+  <p>Dies ist ein Test für GitHub Pages mit OpenWidget.</p>
+
+  <script>
+    window.OPENWIDGET_SETTINGS = {
+      integrationID: "DEINE_OPENWIDGET_ID_HIER"
+    };
+  </script>
+  <script src="https://cdn.openwidget.com/widget.js" async></script>
+</body>
+</html>
