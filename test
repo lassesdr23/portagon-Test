@@ -11,7 +11,7 @@
 
   <script>
     window.OPENWIDGET_SETTINGS = {
-      integrationID: "DEINE_OPENWIDGET_ID_HIER"
+      integrationID: "f10031e4-7ac1-4fc5-b9d4-37d3ab64b00a"
     };
   </script>
   <script src="https://cdn.openwidget.com/widget.js" async></script>
